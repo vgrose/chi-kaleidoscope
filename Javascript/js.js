@@ -30,6 +30,12 @@ var tacoIcon = L.icon({
   iconAnchor: [20,20]
 });
 
+var sushiIcon = L.icon({
+  iconUrl: "../Images/sushiIcon.png",
+  iconSize: [30,30],
+  iconAnchor: [20,20]
+});
+
 //Function that will determine the color of a Chicago neighborhood based on the area it belongs to
 function chooseColor(community) {
   switch (community) {
@@ -307,35 +313,65 @@ d3.csv("../Datasets/CPLdata1.csv", function(data) {
   });
 });
 
-var pizzaHeatArray = [];
-var pizzaClusterMarkers = L.markerClusterGroup({
+// var pizzaHeatArray = [];
+// var pizzaClusterMarkers = L.markerClusterGroup({
+//   iconCreateFunction: function(cluster) {
+//     var count = cluster.getChildCount();
+//     console.log(count);
+//     return L.divIcon({ 
+//       className: 'my-div-icon',
+//       html: `<div id = "pizzaContainer">
+//                 <img id ="tacoImage" src = "../Images/pizzaIcon.png" style="width:100%;"/>
+//                 <p id ="tacoText">${count}</p>
+//             </div>`
+//     });
+//   }
+// });
+
+// d3.csv("../Datasets/pizzaUpdate.csv", function(error, pizzaData) {
+  
+//     if (error) return console.warn(error);
+
+//   // Cast each hours value in tvData as a number using the unary + operator
+//     pizzaData.forEach(function(data) {
+
+//         var lat = data.Latitude;
+//         var lng = data.Longitude;
+//         // pizzaHeatArray.push([lat, lng]);
+//         pizzaClusterMarkers.addLayer(L.marker([lat, lng], {icon: pizzaIcon})
+//         .bindPopup("<h3 align = 'center'>" + data.Name + "</h3><h4 align = 'center'>" + data.Address + "</h4"));
+//     });
+//   });
+
+var asianHeatArray = [];
+var asianClusterMarkers = L.markerClusterGroup({
   iconCreateFunction: function(cluster) {
     var count = cluster.getChildCount();
     console.log(count);
     return L.divIcon({ 
       className: 'my-div-icon',
-      html: `<div id = "pizzaContainer">
-                <img id ="tacoImage" src = "../Images/pizzaIcon.png" style="width:100%;"/>
+      html: `<div id = "tacoContainer">
+                <img id ="tacoImage" src = "../Images/sushiIcon.png" style="width:100%;"/>
                 <p id ="tacoText">${count}</p>
             </div>`
     });
   }
 });
 
-d3.csv("../Datasets/pizzaUpdate.csv", function(error, pizzaData) {
+d3.csv("../Datasets/asianUpdate.csv", function(error, asianData) {
   
-    if (error) return console.warn(error);
+  if (error) return console.warn(error);
 
-  // Cast each hours value in tvData as a number using the unary + operator
-    pizzaData.forEach(function(data) {
+// Cast each hours value in tvData as a number using the unary + operator
+  asianData.forEach(function(data) {
 
-        var lat = data.Latitude;
-        var lng = data.Longitude;
-        // pizzaHeatArray.push([lat, lng]);
-        pizzaClusterMarkers.addLayer(L.marker([lat, lng], {icon: pizzaIcon})
-        .bindPopup("<h3 align = 'center'>" + data.Name + "</h3><h4 align = 'center'>" + data.Address + "</h4"));
-    });
+      var lat = data.Latitude;
+      var lng = data.Longitude;
+      // pizzaHeatArray.push([lat, lng]);
+      asianClusterMarkers.addLayer(L.marker([lat, lng], {icon: sushiIcon})
+      .bindPopup("<h3 align = 'center'>" + data.Name + "</h3><h4 align = 'center'>" + data.Address + "</h4"));
   });
+});
 
 
 var mexicanHeatArray = [];
@@ -418,7 +454,8 @@ function createMap(neighborhoods) {
     "Red Light Cameras": redLayer,
     // "Pizza heat": pizzaHeat,
     Pizza: pizzaClusterMarkers,
-    Mexican: mexicanClusterMarkers
+    Mexican: mexicanClusterMarkers,
+    Asian: asianClusterMarkers
   };
 
   // Create our map, giving it the streetmap and neighborhood layers to display on load
