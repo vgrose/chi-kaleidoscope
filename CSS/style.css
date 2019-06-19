@@ -1,0 +1,42 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+br {
+    line-height: 10px;
+ }
+#map,
+body,
+html {
+  height: 100%;
+}
+
+#tacoContainer {
+  height: 50px;
+  width: 50px;
+  position: relative;
+}
+
+#pizzaContainer {
+  height: 70px;
+  width: 70px;
+  position: relative;
+}
+
+#tacoImage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0.8;
+}
+#tacoText {
+  z-index: 100;
+  position: absolute;
+  color: purple;
+  font-size: 13px;
+  font-weight: bold;
+  left: 50%;
+  top: 25%;
+  transform: translate(-50%, -50%);
+}

@@ -1,0 +1,408 @@
+,Name,Address,Phone_Number,Zip_Code,Latitude,Longitude,Neighborhood
+0,Adobo Grill,215 W North Ave ,312-366-2150,60610,41.9109338,-87.6353587,Near North Side
+1,Arturo's Mexican Restaurant,7151 S Western Ave ,773-776-0433,60636,41.7632532,-87.6827778,Chicago Lawn
+2,Atolito,4429 N Broadway St ,773-334-7711,60640,41.9625872,-87.65536,Uptown
+3,Atolito Mexican Kitchen,2436 N Lincoln Ave ,773-880-6666,60614,41.9261617,-87.6501552,Sheffield & DePaul
+4,Azteca,7531 N Wolcott Ave ,773-973-3570,60626,42.0188617,-87.6773534,Rogers Park
+5,Azteca Grill,3731 North Clark Street ,773-857-6565,60613,41.9498727,-87.6583847,Wrigleyville
+6,Baja Fresh Mexican Grill,180 N Michigan Ave Ste 104 ,312-223-8590,60601,41.8855045,-87.6248892,North Michigan Avenue
+7,Buenos Tacos,283 N Pulaski Rd ,773-826-1988,60624,41.8852685,-87.7255734,East Garfield Park
+8,Burrito Beach,210 S Canal St ,312-575-9749,60606,41.8786578,-87.6401556,West Loop
+9,Burrito Beach,5600 Mannheim Rd ,773-462-0190,60666,41.9779842,-87.9064863,O'Hare
+10,Burrito Beach,200 E Ohio St ,312-335-0668,60611,41.8927568,-87.62252939999999,Streeterville
+11,Burrito Beach,19 S LaSalle St ,312-578-9340,60603,41.8813955,-87.63186259999999,South LaSalle Street
+12,Burrito Beach,233 N Michigan Ave ,312-861-1986,60601,41.8870789,-87.6230875,Chicago Loop
+13,Burrito Beach,500 W Madison St ,312-466-1828,60661,41.8823052,-87.6404881,West Loop
+14,Burrito Beach,251 E Huron St ,312-475-0442,60611,41.8946256,-87.6209858,Streeterville
+15,Burrito Buggy,206 W Van Buren St ,312-362-0199,60607,41.8769278,-87.63401309999999,Chicago Loop
+16,Burrito Buggy,117 S Clinton St ,312-258-9158,60661,41.880001,-87.6409476,West Loop
+17,Burrito Grande,5108 S Archer Ave ,773-581-8898,60632,41.80094039999999,-87.7296708,Archer Heights
+18,Burrito House,3145 W Addison St ,773-279-9111,60618,41.9464799,-87.70708169999999,Avondale
+19,Burrito King,4754 W Belmont Ave ,773-280-9251,60641,41.9389694,-87.7461182,Portage Park
+20,C Manny's Mexican Restaurant,3641 W Irving Park Rd ,773-583-1590,60618,41.95346,-87.71949599999999,Irving Park
+21,Cabos Baja Cafe & Mexican Grill,5750 North California Avenue ,872-208-5842,60659,41.9863937,-87.6996137,West Ridge
+22,Cafe Rio,3222 W Bryn Mawr Ave ,773-942-6169,60659,41.9833157,-87.70994619999999,North Park
+23,Calis Mexican American Grill Menrcan,2333 S Michigan Ave ,312-794-5418,60616,41.850102,-87.6232876,Near South Side
+24,Cantina Laredo,508 N State St ,312-955-0014,60654,41.8910917,-87.62831210000002,River North
+25,Carbon Live Fire Mexican Grill,810 N Marshfield Ave ,312-733-0978,60622,41.89639589999999,-87.66864830000002,West Town
+26,Carniceria Y Taqueria Guerro,1856 N Richmond St ,773-252-0906,60647,41.91552069999999,-87.7006916,Logan Square
+27,Carnitas Michoacan,4235 W 63rd St ,773-912-6607,60629,41.7784031,-87.7290167,West Lawn
+28,Carnitas Uruapan,1725 W. 18th St. ,312-226-2654,60608,41.8575446,-87.6696718,Lower West Side
+29,Casa Blanca,4549 N Kedzie Ave ,773-463-0931,60625,41.964474,-87.70821,East Albany Park
+30,Casa Sanchez,1248 W ,312-243-2561,60642,40.740541,-111.927397,Salt Lake City
+31,Ceasars Tacos,316 N Clark St ,773-248-1292,60654,41.887871,-87.63123399999999,River North
+32,Cesar's Killer Margaritas - Broadway,2924 North Broadway ,773-296-9097,60657,41.9356893,-87.6445262,Lake View East
+33,Cesar's Killer Margaritas - Clark,3166 N. Clark St. ,773-248-2835,60657,41.9394091,-87.6504094,Lake View
+34,Chicken And Taco Place,5200 N Elston Ave ,773-685-3045,60630,41.9753987,-87.752287,Forest Glen
+35,Chilapan Mexican,1522 W Montrose Ave ,773-878-1077,60613,41.9617617,-87.6686635,Ravenswood
+36,Chipotle Mexican Grill,120 W Adams St ,773-239-7363,60603,41.8796665,-87.6315202,Chicago Loop
+37,Chipotle Mexican Grill,24 E Jackson Blvd ,312-588-0064,60604,41.8783386,-87.62662590000001,Chicago Loop
+38,Chipotle Mexican Grill,10 W Kinzie St ,312-475-0732,60607,41.8893756,-87.6291554,River North
+39,Chipotle Mexican Grill,14 E Jackson Blvd ,312-566-0313,60604,41.8783901,-87.6270447,Chicago Loop
+40,Chipotle Mexican Grill,2717 N Elston Ave ,773-661-0250,60647,41.9312576,-87.6851658,Bucktown
+41,Chipotle Mexican Grill,3312 N Western Ave ,773-472-6033,60618,41.9413134,-87.6888329,North Center
+42,Chipotle Mexican Grill,2310 W 95th St ,773-239-7363,60643,41.7214293,-87.6802903,Beverly
+43,Chipotle Mexican Grill,233 W Lake St ,312-263-6231,60606,41.8855629,-87.6352192,Chicago Loop
+44,Chipotle Mexican Grill,2000 N Clybourn Ave ,773-935-1292,60614,41.9173341,-87.6589607,Lincoln Park
+45,Chipotle Mexican Grill,2743 N Elston Ave ,773-278-4346,60647,41.9316685,-87.6863815,Bucktown
+46,Chipotle Mexican Grill,311 S Wacker Dr ,312-588-1590,60606,41.8774554,-87.6360918,South Wacker Drive
+47,Chipotle Mexican Grill,610 W Diversey Pkwy ,773-281-3610,60614,41.93302509999999,-87.6442246,Lake View East
+48,Chipotle Mexican Grill,10 E Jackson Blvd ,312-566-0987,60604,41.8783398,-87.6272151,Chicago Loop
+49,Chipotle Mexican Grill,2640 N Narragansett Ave ,773-745-4678,60639,41.928888,-87.7873029,Belmont Cragin
+50,Chipotle Mexican Grill,6600 N Sheridan Rd ,773-465-9298,60626,42.0026814,-87.6612148,Rogers Park
+51,Chipotle Mexican Grill,6 W Grand Ave ,312-828-0615,60654,41.8918108,-87.6285382,River North
+52,Chipotle Mexican Grill,230 West Monroe Street ,312-727-0061,60606,41.8810687,-87.6348708,Chicago Loop
+53,Chipotle Mexican Grill,5224 N Broadway St ,773-878-1155,60640,41.9774192,-87.6603864,Edgewater
+54,Chipotle Mexican Grill,2256 N Orchard Ave ,773-472-1614,60614,41.9235005,-87.6465331,Lincoln Park
+55,Chipotle Mexican Grill,2302 W 95th St ,773-239-7626,60643,41.7214828,-87.67995610000001,Beverly
+56,Chipotle Mexican Grill,1132 S Clinton St ,312-583-0979,60607,41.8680145,-87.6410387,Near West Side
+57,Chipotle Mexican Grill,210 W North Ave ,312-475-0734,60610,41.9113219,-87.635188,Old Town Triangle
+58,Chipotle Mexican Grill,1166 N State St ,312-654-8640,60610,41.9037368,-87.6288539,Rush & Division
+59,Chipotle Mexican Grill,3181 N Broadway St ,773-525-5254,60657,41.939905,-87.6442022,Lake View East
+60,Chipotle Mexican Grill,1025 W Belmont Ave ,773-348-5503,60657,41.9396828,-87.6551454,Lake View
+61,Chipotle Mexican Grill,4657 W Irving Park Rd ,773-283-1212,60641,41.9532597,-87.7449185,Old Irving Park
+62,Chipotle Mexican Grill,3227 W Addison St ,773-583-3706,60618,41.9457872,-87.70911009999999,Avondale
+63,Chipotle Mexican Grill,8 E Madison St ,312-629-3663,60602,39.298958,-76.615039,Mount Vernon
+64,Chipotle Mexican Grill,10 S La Salle St ,312-977-0509,60603,41.8814637,-87.6329439,Chicago Loop
+65,Chipotle Mexican Grill,5961 N Lincoln Ave ,773-907-0359,60659,41.9896223,-87.7054359,West Ridge
+66,Chipotle Mexican Grill,1733 N Damen Ave ,773-772-5870,60647,41.9133285,-87.6771851,West Town
+67,Chipotle Mexican Grill,2809 N Ashland Ave ,773-883-5296,60657,41.93282,-87.66809479999999,Lake View
+68,Chipotle Mexican Grill,5330 S. Pulaski Road ,773-581-7632,60632,41.7960979,-87.7245617,West Elsdon
+69,Chipotle Mexican Grill,806 W 63rd St ,773-962-0782,60621,41.782397,-87.645161,Englewood
+70,Chipotle Mexican Grill,7561 S. Cicero Avenue ,773-581-8189,60652,41.7547814,-87.7406805,West Lawn
+71,Chipotle Mexican Grill,316 N Michigan Ave ,312-578-0146,60601,41.88730200000001,-87.6250007,Chicago Loop
+72,Chipotle Mexican Grill,41 W. 87th Street ,773-783-3503,60620,40.7868724,-73.9704568,Manhattan
+73,Chipotle Mexican Grill,291 E Ontario St ,312-587-8653,60611,41.8931821,-87.6207517,Streeterville
+74,Chipotle Mexican Grill,525 W Monroe St ,312-207-1227,60661,41.8803304,-87.6403457,West Loop
+75,Chipotle Mexican Grill,4234 N Harlem Ave Norridge ,708-452-7161,60706,41.9575358,-87.8075108,Harwood Heights
+76,Chipotle Mexican Grill,1522 E 53rd St ,773-363-4879,60615,41.7996837,-87.588077,Hyde Park
+77,Chitown Bar And Taco,4839 S Central Ave ,708-701-2145,60638,41.804314,-87.762226,Chicago
+78,Cielito Lindo Restaurant,5344 W Fullerton Ave ,773-637-9143,60639,41.92423650000001,-87.7602599,Belmont Cragin
+79,Cocina Tarascas Mexican Restaurant,2585 N Clark St ,872-256-6577,60614,41.9300061,-87.64306359999999,Lincoln Park
+80,Costa Vida,218 W. Lake Street ,312-374-3344,60606,41.885858,-87.63454999999999,Chicago Loop
+81,Danny's Tacos,11529 S Michigan Ave ,773-366-3525,60628,41.6844082,-87.62045049999999,West Pullman
+82,Del Taco,4157 S California Ave ,773-475-6365,60632,41.8175138,-87.694186,Brighton Park
+83,Del Taco,7138 N Clark St ,773-274-9004,60626,42.0123832,-87.674933,Rogers Park
+84,Del Taco,4835 S Archer Ave ,773-847-6116,60632,41.8053643,-87.71817519999999,Archer Heights
+85,Del Taco,3144 N Narragansett Ave ,773-237-5049,60634,41.9377073,-87.7862095,Belmont Cragin
+86,Delicias Mexicanas Restaurant,4147 W 26th St ,773-522-5009,60623,41.8439263,-87.7287859,South Lawndale
+87,Deseo Mexican Cantina,4250 N Marine Dr ,773-388-3300,60613,41.96020499999999,-87.64684299999999,Chicago
+88,Don Guacamoles,946 W Newport Ave ,773-883-6043,60657,41.9446301,-87.6537651,Lake View
+89,Don Taquito Restaurant,3209 W Lawrence Ave ,773-463-2222,60625,41.9682735,-87.70889079999999,East Albany Park
+90,Dona Torta Mexican Grill,5750 N California Ave ,773-942-7955,60659,41.9863937,-87.6996137,West Ridge
+91,Dos Diablos,15 W Hubbard St ,312-245-5252,60654,41.8898569,-87.6285484,River North
+92,El Azteca,5011 W Fullerton Ave ,773-237-5638,60639,41.9239283,-87.7517386,Belmont Cragin
+93,El Burrito Amigo,5238 W Grand Ave ,773-637-2188,60639,41.9173378,-87.75735139999999,Hanson Park
+94,El Burrito Mexicano,936 W Addison St ,773-327-6991,60613,41.9473622,-87.65342989999999,Lake View
+95,El Campestre,6920 S Pulaski Rd ,773-284-0512,60629,41.7670952,-87.7229375,West Lawn
+96,El Campestre,4226 S Archer Ave ,773-927-1333,60632,41.8167422,-87.7003836,Brighton Park
+97,El Chisme Express,5955 South Pulaski Road ,773-284-2800,60629,41.7843239,-87.7227145,West Lawn
+98,El Chisme Restaurant,4440 South Western Avenue ,773-376-6900,60609,41.8126676,-87.68478859999999,Brighton Park
+99,El Coyote Mexican Grill,2255 W Taylor St ,312-226-9833,60612,41.8688604,-87.6833362,Tri-Taylor
+100,El Famous Burrito,7047 N Clark St ,773-465-0377,60626,42.01044599999999,-87.673951,Rogers Park
+101,El Famous Burrito,2 S Peoria St ,312-666-8788,60607,41.881584,-87.64990499999999,West Loop
+102,El Gallo Bravo,1429 W Montrose Ave ,773-404-5358,60613,41.961299,-87.6662832,Lake View
+103,El Gallo Giro,6531 W 63rd St ,773-586-7665,60638,41.7774323,-87.7849222,Clearing
+104,El Gallo Giro,1631 N Bosworth Ave ,773-586-7665,60607,41.9115251,-87.6660927,West Town
+105,El Gran Burrito,5632 W North Ave ,773-622-2800,60639,41.9095394,-87.7669354,Austin
+106,El Guanaco,3802 W Diversey Ave ,773-394-5470,60647,41.9320658,-87.7223219,Avondale
+107,El Guanaco,6345 W Grand Ave ,773-637-2915,60639,41.9221561,-87.7846217,Belmont Cragin
+108,El Habanero,3300 West Fullerton Avenue ,773-227-9225,60647,41.9248494,-87.71098839999999,Logan Square
+109,El Jalapeno,10641 S Pulaski Rd ,773-366-3676,60655,41.6991838,-87.720483,Mount Greenwood
+110,El Jalapenos,5422 W Fullerton Ave ,773-622-5544,60639,41.9241989,-87.7621289,Belmont Cragin
+111,El Jardin,3335 N Clark St ,773-528-6775,60657,41.9427371,-87.65271659999999,Lake View
+112,El Llano Restaurant,4011 N Elston Ave Ste 1 ,773-866-9500,60618,41.9541578,-87.7194232,North Elston Avenue
+113,El Mariachi,3906 N Broadway St Ste Front ,773-549-2932,60613,41.9530436,-87.6499238,Lake View
+114,El Mariachi,3420 N Broadway St ,773-549-7020,60657,41.9439065,-87.6454078,Lake View East
+115,El Mercado Barato,2766 N Milwaukee Ave ,773-384-2514,60647,41.9313893,-87.7114271,Logan Square
+116,El Molino Restaurant,3945 W 31st St ,773-847-7789,60623,41.8367098,-87.72361029999999,South Lawndale
+117,El Norte Restaurant,114 W ,312-943-5581,60654,40.7581194,-73.9830293,Manhattan
+118,El Norte Restaurant,1437 W Highland Ave ,773-423-0011,60660,41.99713060000001,-87.666854,Edgewater
+119,El Original Chavas Tacos,2333 W Grand Ave ,312-226-1129,60612,41.8904896,-87.6855635,West Town
+120,El Poblano Mexican Restaurant,2610 W 51st St ,773-434-9901,60632,41.8012384,-87.68967529999999,Gage Park
+121,El Pollo Feliz,7025 S Pulaski Rd ,773-284-7227,60629,41.7651534,-87.72199479999999,West Lawn
+122,El Pollo Real,3823 W 31st St ,773-847-3907,60623,44.946383,-93.32874799999999,West Calhoun
+123,El Pollo Real,3835 W 31st St ,773-847-3907,60623,41.8367403,-87.7208714,South Lawndale
+124,El Pueblito Mexican Grill,5152 North Cicero Avenue ,773-205-0917,60630,41.9749952,-87.7482936,Forest Glen
+125,El Pueblito Restaurant,6712 N Clark St ,773-381-1638,60626,42.0039228,-87.67284959999999,Rogers Park
+126,El Puerto Restaurant,3018 W 47th St ,773-940-0293,60632,41.8084449,-87.6999024,Brighton Park
+127,El Quetzal,3303 W Armitage Ave ,773-862-8049,60647,41.917266,-87.7105406,Logan Square
+128,El Ranchito,2175 N Austin Ave ,773-745-8010,60639,41.9202928,-87.7754324,Belmont Central
+129,El Rincon De Jalisco,6600 S Kedzie Ave ,773-434-7759,60629,41.77338779999999,-87.7033093,Chicago Lawn
+130,El Sombrero,4611 S Pulaski Rd ,773-927-7092,60632,41.8092894,-87.7233704,Archer Heights
+131,El Sombrero,5220 S Pulaski Rd ,773-582-0821,60632,41.7983428,-87.7248098,West Elsdon
+132,El Taco Azteca,2151 West Cermak Road ,773-247-1103,60608,41.851924,-87.6802858,Lower West Side
+133,El Taco Loco1,700 W Lawrence Ave ,773-754-0771,60640,41.9692657,-87.6496725,Uptown
+134,El Taco Loco,1726 W Lawrence Ave ,773-784-1881,60640,41.9690092,-87.6722357,Ravenswood
+135,El Taco Veloz,1745 W Chicago,312-738-0363,60622,41.8957479,-87.67142430000001,West Town
+136,El Taconazo,1836 S Blue Island Ave ,312-226-9697,60608,41.8569883,-87.66225279999999,Lower West Side
+137,El Taconazo Restaurant,2350 W Cermak Rd ,773-523-6076,60608,41.8523885,-87.6851938,Lower West Side
+138,El Taconazo Restaurant,4124 W North Ave ,773-862-7705,60639,41.9100788,-87.72979889999999,Hermosa
+139,El Taconazo Restaurant,5847 S Kedzie Ave ,773-918-1577,60629,41.7868209,-87.7033555,Gage Park
+140,El Taconazo Restaurant - El Original #1,4124 West North Avenue ,872-817-7033,60639,41.9100788,-87.72979889999999,Hermosa
+141,El Tapatio,10300 S Ewing Ave ,773-933-9930,60617,41.7080857,-87.5356254,East Side
+142,El Tapatio,2021 W 18th St ,312-850-4803,60608,41.857385,-87.676903,Lower West Side
+143,El Tejado Mexican Grill,6411 North Central Avenue ,773-631-2101,60646,41.9976333,-87.7635043,Forest Glen
+144,El Tequilas Bar and Grill,2826 North Lincoln Avenue ,872-206-8053,60657,41.9331055,-87.6597397,Lake View
+145,El Torito,1825 W Montrose Ave ,773-929-5404,60613,41.9613385,-87.6754654,North Center
+146,Elias Tacos,5249 S Kedzie Ave ,773-476-3173,60632,41.7975494,-87.7035403,Gage Park
+147,Elo Taco Feliz Taqueria,5439 W Addison St ,773-283-4377,60641,41.94580089999999,-87.7633956,Portage Park
+148,Erick's Tacos,1967 W Lawrence Ave ,773-334-6920,60640,41.9685226,-87.67883119999999,Lincoln Square
+149,Fiesta Mexican Grill,2829 W Armitage Ave ,773-384-6517,60647,41.9173358,-87.69845869999999,Logan Square
+150,Fiesta Mexicana,2503 S Blue Island Ave ,773-823-1091,60608,41.847172,-87.6789917,Lower West Side
+151,Fiesta Mexicana,4806 N Broadway St ,773-769-4244,60640,41.9693431,-87.6599908,Uptown
+152,Fiesta Mexicana,1235 W Grand Ave ,312-421-2000,60642,41.8908705,-87.6587484,West Town
+153,Flaco's Tacos,46 E Chicago,312-266-8226,60611,41.896952,-87.626376,Rush & Division
+154,Flaco's Tacos,725 S Dearborn St ,312-922-8226,60605,41.8727427,-87.62896150000002,Chicago Loop
+155,Flaco's Tacos,3530 N Clark St ,773-975-8226,60657,41.9462549,-87.6561344,Lake View
+156,Flash Taco,1570 N Damen Ave ,773-772-1997,60622,41.9102808,-87.6775969,West Town
+157,Forastero,449 W North Ave ,312-265-0322,60610,41.9109405,-87.6405193,Near North Side
+158,Four Brothers Mexican Restaurant,3924 W Diversey Ave ,773-384-8960,60647,41.9319785,-87.7256142,Avondale
+159,Gold Coast Dogs & El Picante Mexican Grill,2349 W Howard St ,773-338-0900,60645,42.0193564,-87.68946439999999,West Ridge
+160,Gomez Marie,2603 W 71st St ,773-778-7447,60629,39.88515599999999,-86.20639899999999,Indianapolis
+161,Gorditas Santiago,3811 W 63rd St ,773-735-2860,60629,41.7785811,-87.7183584,West Lawn
+162,Guapo Taco,2430 W 47th St ,773-696-2777,60632,41.8085999,-87.6857263,Brighton Park
+163,Jerktaco Man,4001 W Jackson Blvd ,773-826-9009,60624,41.8767168,-87.72574639999999,Garfield Park
+164,Jesse's Mexican Grill,6950 N Western Ave ,773-856-6750,60645,42.00837629999999,-87.6904117,West Ridge
+165,Joel's Tacos,604 N Cicero Ave ,773-261-5900,60644,41.8915776,-87.7458989,Austin
+166,Just Tacos Taqueria,3792 W 79th St ,773-767-1199,60652,41.7498023,-87.7179543,Ashburn
+167,La Cabana,5157 N Lincoln Ave ,773-271-5176,60625,41.9756791,-87.6921059,Lincoln Square
+168,La Cabana,5958 W Wrightwood Ave ,773-237-7760,60639,41.9276472,-87.7756991,Belmont Central
+169,La Calavera,1438 West Chicago,312-255-7925,60642,41.8963188,-87.6640445,Pulaski Park
+170,La Canasta,1119 W Webster Ave ,773-472-7070,60614,41.9215122,-87.65676239999999,Lincoln Park
+171,La Cantina,71 W Monroe St ,312-332-7005,60603,41.8805382,-87.6302049,Chicago Loop
+172,La Cantina Grill,1911 S Michigan Ave ,312-842-1911,60616,41.85627179999999,-87.6234776,Near South Side
+173,La Carreta,6910 N Clark St ,773-465-1298,60626,42.0069963,-87.6737356,Rogers Park
+174,La Cecina on Pilsen,1536 West 18th Street ,312-666-2539,60608,41.8580554,-87.6651084,Lower West Side
+175,La Cecina Restaurant,1934 West 47th Street ,773-927-9444,60609,41.8087583,-87.6736208,Back of the Yards
+176,La Estrella,3835 W 26th St ,773-762-0400,60623,41.84405599999999,-87.721079,South Lawndale
+177,La Estrella,3003 W 63rd St ,773-434-1771,60629,41.778752,-87.698447,Chicago Lawn
+178,La Familia,3308 W 26th St ,773-522-3500,60623,41.8446218,-87.70797639999999,South Lawndale
+179,La Familia Restaurant,6658 W Archer Ave ,773-229-9377,60638,41.7924321,-87.788957,Garfield Ridge
+180,La Fiesta,3333 W 111TH St ,773-779-4844,60655,41.6914171,-87.7042281,Mount Greenwood
+181,La Fiesta,4248 S Archer Ave ,773-254-4678,60632,41.8163656,-87.7009611,Brighton Park
+182,La Flor De Michoacan,5159 W Addison St ,773-685-6680,60641,41.94582459999999,-87.75666489999999,Portage Park
+183,La Gorda Feliz,5940 W Diversey Ave ,773-622-5249,60639,41.9312531,-87.7751274,Belmont Central
+184,La Granja Restaurant,3047 N Cicero Ave ,773-685-3323,60641,41.9365327,-87.7464773,Kelvyn Park
+185,La Guadalupana,4647 S Archer Ave ,773-823-9400,60632,41.8087556,-87.71258569999999,Brighton Park
+186,La Guadalupana,1365 W 37th St ,773-869-0641,60609,41.8266289,-87.66034789999999,McKinley Park
+187,La Oaxaquena,3382 N Milwaukee Ave ,773-545-8585,60641,41.9426494,-87.72996619999999,Irving Park
+188,La Palapa,2000 W 34th St ,773-376-9620,60608,41.8324326,-87.67555380000002,McKinley Park
+189,La Pasadita,1136 N Ashland Ave ,773-486-4442,60622,41.9025985,-87.6678617,West Town
+190,La Pasadita,1142 N Ashland Ave ,773-486-4442,60622,41.9027818,-87.6678147,West Town
+191,La Pasadita Restaurant,1140 N Ashland Ave ,773-278-2130,60622,41.9027048,-87.66785209999999,West Town
+192,La Perla Tapatia,3251 W North Ave ,773-486-3120,60647,41.9098562,-87.709064,Humboldt Park
+193,La Placita,1840 W 35th St ,773-254-1223,60609,41.8306295,-87.67202139999999,McKinley Park
+194,La Sirena II,3109 W 59th St ,773-776-3260,60629,41.7860149,-87.7013762,Chicago Lawn
+195,La Tapatia,2300 S Sacramento Ave ,773-277-8384,60623,41.8498842,-87.70057609999999,Marshall Square
+196,La Taquiza Grill,4628 N Cumberland Ave ,773-417-3280,60656,41.963895,-87.83706099999999,O'Hare
+197,La Taquiza Grill Mexican Restaurant,4628 N Cumberland Ave,773-417-3280,60656,41.963895,-87.83706099999999,O'Hare
+198,Lalagartija Taqueria,132 S Ashland Ave ,312-733-7772,60607,41.8792901,-87.6669301,Near West Side
+199,Lalo's Mexican Restaurant,5700 S Cicero Ave ,773-838-1604,60638,41.7883503,-87.7417559,South Cicero Avenue
+200,Las Asadas,2045 N Western Ave ,773-235-5538,60647,41.9189155,-87.6871104,Bucktown
+201,Las Asadas,3834 W 47th St ,773-847-1000,60632,41.8080891,-87.7200901,Archer Heights
+202,Las Delicias,4010 W Montrose Ave ,773-685-4142,60641,41.9611088,-87.7283303,Albany Park
+203,Las Delicias,4308 W 31st St ,773-376-1411,60623,41.8370126,-87.7320611,South Lawndale
+204,Las Delicias,4754 W Fullerton Ave ,773-360-8775,60639,41.92438620000001,-87.74594350000001,Kelvyn Park
+205,Las Delicias,6326 W Grand Ave ,773-889-6472,60639,41.922401,-87.7839225,Belmont Central
+206,Las Fuentes Restaurant,2558 N Halsted St ,773-935-2004,60614,41.92895830000001,-87.64914619999999,Sheffield & DePaul
+207,Las Islitas Seafood & Mexican Restaurant,2446 S Western Ave ,773-376-0610,60608,41.8468945,-87.68596389999999,Marshall Square
+208,Las Mananitas Mexican Restaurant,3523 N Halsted St ,773-528-2109,60657,41.9462396,-87.6492287,Lake View East
+209,Las Palmas Mexican Restaurant,1835 W North Ave ,773-289-4991,60622,41.9103746,-87.6739316,West Town
+210,Las Palmas Mexican Restraint,3243 N Pulaski Rd ,773-628-7144,60641,41.9404028,-87.7268916,Avondale
+211,Las Palmas of Wicker Park,1835 West North Avenue ,773-289-4991,60622,41.9103746,-87.6739316,West Town
+212,Las Pinatas Mexican Food,1552 N Wells St ,312-664-8277,60610,41.91066439999999,-87.6350025,Near North Side
+213,Lel Nuevo Taco Loco,1700 W Lawrence Ave ,773-754-0771,60640,41.9690456,-87.6712562,Ravenswood
+214,Live Fire Mexican Grill Carbon,2548 S Princeton Ave ,312-631-3317,60616,41.8458489,-87.63475509999999,Armour Square
+215,Los Arcos,5525 N Clark St ,773-334-4332,60640,41.98246510000001,-87.6682943,Andersonville
+216,Los Cabos,3355 N Central Ave ,773-481-9074,60634,41.9420642,-87.76632939999999,Portage Park
+217,Los Comales Mexican Restaurant,3623 S Archer Ave ,773-890-4307,60609,41.8278733,-87.6812702,McKinley Park
+218,Los Corrales,2881 W Cermak Rd ,773-847-6998,60623,41.8517285,-87.6985414,Marshall Square
+219,Los Gallos Mexican Restaurant,4252 S Archer Ave ,773-254-2081,60632,41.816291,-87.7011151,Brighton Park
+220,Los Girasoles,1012 W 31st St ,773-376-3050,60608,41.8381475,-87.65189,Lyn-Lake
+221,Los Mangos,3551 W 26th St ,773-277-7300,60623,41.8441444,-87.7143902,South Lawndale
+222,Los Nopales Mexican Restaurant,4544 N Western Ave ,773-334-3149,60625,41.9644983,-87.6891461,Lincoln Square
+223,Los Panchos Restaurant,4147 W 63rd St ,773-581-0821,60629,41.7782639,-87.7268814,West Lawn
+224,Los Portales,3919 W North Ave ,773-227-0705,60647,41.9097495,-87.72485499999999,Humboldt Park
+225,Los Potrillos,3624 W Belmont Ave ,773-267-2033,60618,41.9394539,-87.7184386,Avondale
+226,Los Tres Hermanos,2858 S Pulaski Rd ,773-762-5921,60623,41.8388605,-87.7247203,South Lawndale
+227,Lunada Mexican Grill,4888 S Archer Ave ,773-376-3613,60632,41.804578,-87.72019069999999,Archer Heights
+228,Macho Taco,1723 N Ashland Ave ,773-278-8030,60622,41.9131931,-87.6673673,West Town
+229,Maria's Mexican Restaurant,9440 W Foster Ave ,847-260-5878,60656,41.9735269,-87.863828,O'Hare
+230,Maria's Taco,1134 W 87th St ,312-733-3543,60290,41.736264,-87.652328,Gresham
+231,Mario's Tacos,4540 W 63rd St ,773-582-8226,60629,41.7787853,-87.73659529999999,West Lawn
+232,Mayan Palace Mexican Cuisine,2703 North Halsted Street ,773-935-4200,60614,41.9317081,-87.6487655,Lincoln Park
+233,Mexico Portas & Tacos,1008 S Western Ave ,773-542-1705,60290,34.0523711,-118.3090618,Mid City
+234,Mi Fogata,4322 North Western Avenue ,872-208-5710,60618,41.9602808,-87.68891579999999,North Center
+235,Mi Rancho Mexican Restaurant,1069 Jason Pl ,217-697-8642,60619,39.68503,-89.70616609999999,Chatham
+236,Mi Taqueria Ochoa,2320 N Cicero Ave ,773-887-3487,60639,41.9230922,-87.7465937,Belmont Cragin
+237,Mi Tierra,2528 S Kedzie Ave ,773-254-7722,60623,41.8452298,-87.7054843,South Lawndale
+238,Mi Tierra Restaurant,1039 W Belmont Ave ,773-929-7955,60657,41.939679,-87.65574289999999,Lake View
+239,Miguel Mexican Grill,3810 N Central Ave ,773-283-7929,60634,41.9499369,-87.7671338,Portage Park
+240,Mr Pollo,3000 W Belmont Ave ,773-509-1208,60618,41.9395815,-87.7029244,Avondale
+241,Mr Pollo,3026 W Belmont Ave ,773-509-1208,60618,41.9395217,-87.7038098,Avondale
+242,Mr Pollo,5222 W Diversey Ave ,773-282-4743,60639,41.93163,-87.7573626,Belmont Cragin
+243,O'Manny's Mexican Restaurant,3641 West Irving Park Road ,773-516-4000,60618,41.95346,-87.71949599999999,Irving Park
+244,Pacos Tacos 2,6034 S Pulaski Rd ,773-582-4244,60629,41.7831246,-87.72322609999999,West Lawn
+245,Papi's Tacos,2322 W Taylor St ,312-829-3001,60612,41.869235,-87.684831,Tri-Taylor
+246,Paradise Cantina,1212 N State Pkwy ,312-202-0994,60610,41.9043224,-87.62904879999999,Gold Coast
+247,Paradise Cantina,2015 W Division St ,773-227-1110,60622,41.9029005,-87.6779437,West Town
+248,Patron Mexican Grill,6832 W Archer Ave ,773-229-8005,60638,41.7923073,-87.79299089999999,Garfield Ridge
+249,Pepe's Mexican Food,1310 E 53rd St ,773-752-9300,60615,41.799694,-87.5945267,Hyde Park
+250,Pepe's Mexican Restaurant,2014 E 87th St ,773-374-3388,60617,41.7372786,-87.5747667,Stoney Island Park
+251,Pepe's Mexican Restaurant,8313 S Cottage Grove Ave ,773-488-5576,60619,41.7434423,-87.6046554,Grand Crossing
+252,Pepe's Mexican Restaurant,7026 W Archer Ave ,773-586-5415,60638,41.7922577,-87.79750489999999,Garfield Ridge
+253,Pepe's Mexican Restaurants,11227 S State St ,773-928-9069,60628,41.6900578,-87.6228562,Roseland
+254,Pepe's Mexican Restaurants,4610 N Harlem Ave ,708-867-4072,60706,41.9641416,-87.8076786,Harwood Heights
+255,Pepe's Mexican Restaurants,11652 S Western Ave ,773-881-8142,60643,41.6810726,-87.68113079999999,Beverly Woods
+256,Pepe's Mexican Restaurants,8227 S Exchange Ave ,773-768-8740,60617,41.7456503,-87.5525064,South Chicago
+257,Pepe's Mexican Restaurants,6230 S Western Ave ,773-737-1628,60636,41.7801125,-87.6841348,Chicago Lawn
+258,Pepe's Mexican Restaurants,131 E 79th St ,773-994-1525,60619,40.7754623,-73.9594158,Manhattan
+259,Pepe's Mexican Restaurants,954 W 87th St ,773-488-4026,60620,41.7362555,-87.6482667,Gresham
+260,Pepe's Restaurant,3233 W 63rd Pl ,773-778-6673,60629,41.7777994,-87.7044257,Chicago Lawn
+261,Pepe's Restaurant,4820 S Cicero Ave ,773-767-9600,60638,41.8049131,-87.7434869,Garfield Ridge
+262,Pepe's Tacos,4743 W Grand Ave ,773-622-0612,60639,41.9131467,-87.7451303,Hermosa
+263,Pepes Mexican Restaurant,3131 E 79th St ,773-994-1525,60619,41.7519824,-87.5481097,South Chicago
+264,Pepes Mexican Restaurants,2102 W Cermak Rd ,312-247-1979,60608,41.8521502,-87.67853819999999,Lower West Side
+265,Pollo Campero,4830 N Pulaski Rd Ste 102 ,773-282-1966,60630,41.9692337,-87.729036,North Pulaski Road
+266,Pollo Campero,2730 N Narragansett Ave ,773-622-6657,60639,41.930694,-87.78707399999999,Belmont Cragin
+267,Puebla Restaurant,2658 N Milwaukee Ave ,773-227-5499,60647,41.9299907,-87.7091339,Logan Square
+268,Punta Cana Restaurant,2200 N Kimball Ave ,773-278-7586,60647,41.9211359,-87.7122393,Logan Square
+269,QDOBA Mexican Eats,175 W Jackson St ,888-736-2224,60604,41.8774987,-87.63319969999999,Chicago Loop
+270,QDOBA Mexican Eats,5700 S Maryland Ave Hyde Park ,773-926-1365,60637,41.7912122,-87.60505409999999,Hyde Park
+271,QDOBA Mexican Eats,58 E Randolph St ,888-736-2224,60601,41.8846294,-87.6258924,Chicago Loop
+272,QDOBA Mexican Eats,100 N Lasalle St ,888-736-2224,60602,41.8833548,-87.63286910000001,Chicago Loop
+273,QDOBA Mexican Eats,957 W Diversey Pkwy ,888-736-2224,60614,41.9322928,-87.6535318,Sheffield & DePaul
+274,Qdoba Mexican Grill,328 N Michigan Ave ,312-419-8437,60601,41.8875361,-87.6250778,Chicago Loop
+275,Qdoba Mexican Grill,2191 N Clybourn Ave ,773-472-6374,60614,41.9214042,-87.6637563,Lincoln Park
+276,Qdoba Mexican Grill,100 N La Salle St Frnt 1 ,312-578-8358,60602,41.889759,-87.6322411,North LaSalle Street
+277,Qdoba Mexican Grill,175 W Jackson Blvd Lbby 18 ,312-212-1201,60604,41.8774987,-87.63319969999999,Chicago Loop
+278,Qdoba Mexican Grill,2427 N Lincoln Ave ,773-868-3385,60614,41.926271,-87.64947599999999,Sheffield & DePaul
+279,Qdoba Mexican Grill,227 E Ontario St Ste C ,312-280-7508,60611,41.8931646,-87.6216438,East Ontario Street
+280,Qdoba Mexican Grill,20 E Chicago,312-915-0953,60611,41.8993867,-87.6275053,Rush & Division
+281,Que Rico,2814 N Southport Ave ,773-975-7436,60657,41.9329915,-87.6638411,Lake View
+282,Quesadilla La Reina Dell Sur,2335 N Western Ave ,773-235-8807,60647,41.9243742,-87.68727129999999,Bucktown
+283,Ricano's Restaurant,230 South Ashland Avenue ,312-666-7253,60607,41.8779276,-87.66693529999999,Near West Side
+284,ROJO GUSANO,4217 North Ravenswood Avenue ,773-360-1628,60613,41.9584455,-87.6736955,Lake View
+285,ROJO GUSANO,3830 West Lawrence Avenue ,773-724-1605,60625,41.9684246,-87.7245494,Albany Park
+286,Rokito's,1111 W Wilson Ave ,773-561-5500,60640,41.9651951,-87.6580594,Uptown
+287,Rosas Tamales,5632 S Kedzie Ave ,773-863-0646,60629,41.79067999999999,-87.7037328,Gage Park
+288,Sabroso Mexican Grill,941 N Damen Ave ,773-253-5001,60622,41.8988861,-87.6767081,West Town
+289,Salsa Picante,949 North Western Avenue ,773-904-8406,60622,41.8989631,-87.6865608,West Town
+290,Salsaseria Grill & Cantina,233 S Wacker Dr ,312-756-1770,60606,41.878877,-87.6357573,Chicago Loop
+291,Senor Mariachi Mexican Restaurant,5004 N Sheridan Rd ,773-334-4444,60640,41.9735857,-87.6551092,Uptown
+292,Slugos Tacos,537 E 79th St ,773-891-5997,60619,41.7510177,-87.6109735,Chatham
+293,Sol De Mexico,4600 S Ashland Ave ,773-940-1145,60609,41.8103004,-87.6652314,Back of the Yards
+294,South Side Taco,7820 S Ashland Ave ,773-488-3909,60620,41.7513336,-87.66382809999999,Gresham
+295,Super Burrito,1502 N Western Ave ,773-486-4195,60622,41.90866949999999,-87.68747809999999,West Town
+296,Supreme Tamale Company,5813 W Grand Ave ,773-622-3777,60639,41.9194668,-87.7713873,Belmont Central
+297,T N T Mexican Restaurant,8929 S Commercial Ave ,773-768-4153,60617,41.7327927,-87.55103869999999,South Chicago
+298,Taco & Burrito Express,2540 N Halsted St ,773-929-8867,60614,41.9285111,-87.6490858,Sheffield & DePaul
+299,Taco & Burrito House,3038 N Broadway St ,773-529-2624,60657,41.937721,-87.644611,Lake View East
+300,Taco & Burrito House,2430 N Central Ave ,773-622-6926,60639,41.9249304,-87.76629319999999,Belmont Central
+301,Taco & Burrito House,1548 W Fullerton Ave ,773-665-8389,60614,41.9253552,-87.66762,Lincoln Park
+302,Taco & Burrito House,3939 N Broadway St ,773-871-8988,60613,41.9539227,-87.6498854,Lake View
+303,Taco Bell,1111 West Addison ,773-281-4937,60613,41.9469335,-87.6573171,Lake View
+304,Taco Bell,7856 S. Stoney Island Ave ,773-221-5182,60649,41.752439,-87.586491,Grand Crossing
+305,Taco Bell,6944 Archer ,773-586-5455,60638,41.7923164,-87.7956593,Garfield Ridge
+306,Taco Bell,6622 W. Fullerton Ave. ,773-237-4661,60639,41.923709,-87.7885709,Belmont Cragin
+307,Taco Bell,6460 N Sheridan Road ,773-892-2032,60626,41.999978,-87.6609156,Rogers Park
+308,Taco Bell,3511 Devon Avenue ,773-588-9712,60659,41.9970407,-87.7165227,North Park
+309,Taco Bell,3509 N Harlem ,773-685-7066,60634,41.9435847,-87.80671989999999,Schorsch Village
+310,Taco Bell,3350 W. Roosevelt Rd ,773-826-9324,60624,41.8664164,-87.70962809999999,North Lawndale
+311,Taco Bell,3143 N Milwaukee Ave ,773-539-2762,60618,41.9384247,-87.7222683,Avondale
+312,Taco Bell,2807 W Irving Park Rd ,773-267-0071,60618,41.9537452,-87.6986127,Irving Park
+313,Taco Bell,2575 North Clybourn ,773-281-5156,60614,41.9285084,-87.67333029999999,Lincoln Park
+314,Taco Bell,1644 W 95th St ,773-779-5600,60643,41.7214811,-87.6644706,Beverly
+315,Taco Bell,1439 N Milwaukee Avenue ,773-661-2607,60622,41.9081918,-87.6735478,West Town
+316,Taco Bell,1323 Sibley Boulevard Dolton ,219-314-3690,60419,41.62216069999999,-87.5849569,Dolton
+317,Taco Bell,3365 S Martin Luther King Drive ,312-796-5602,60653,41.8329079,-87.61643959999999,Douglas
+318,Taco Bell,2432 N Milwaukee Ave ,773-697-7809,60647,41.92526549999999,-87.70173100000001,Logan Square
+319,Taco Bell,2410 S Western Ave ,773-475-7502,60608,41.8479605,-87.6858678,Marshall Square
+320,Taco Bell,6631 South Cicero ,773-498-2642,60638,41.7719922,-87.74176779999999,Clearing
+321,Taco Bell,4523 W North Ave. ,773-645-0351,60639,41.9091313,-87.7398296,Humboldt Park
+322,Taco Bell,920 W Belmont Ave ,872-210-0759,60657,41.940052,-87.65241499999999,Lake View
+323,Taco Bell,7906 S. Western Avenue ,773-424-3609,60620,41.7496917,-87.682914,Ashburn
+324,Taco Bell Cantina,178 North Wabash Ave ,312-578-8751,60601,41.885338,-87.6265372,Chicago Loop
+325,Taco Bell Cantina,205 E Ohio Street ,312-846-6614,60611,41.8923895,-87.62209260000002,Streeterville
+326,Taco Bell Cantina,407 S. Dearborn ,773-904-2737,60605,41.8766468,-87.62906869999999,Chicago Loop
+327,Taco Bueno,2057 W Cermak Rd ,773-376-5109,60608,41.8519562,-87.6780119,Lower West Side
+328,Taco Burrito King,5413 W Belmont Ave ,773-777-6200,60641,41.9384088,-87.7623799,Belmont Cragin
+329,Taco Burrito King,811 W Jackson Blvd ,312-831-0400,60607,41.877834,-87.64783,West Loop
+330,Taco Burrito King,5601 S Harlem Ave ,773-586-9800,60638,41.789916,-87.80096209999999,Garfield Ridge
+331,Taco Burrito King,5509 N Harlem Ave ,773-467-0692,60656,41.9811985,-87.8067612,Union Ridge
+332,Taco Burrito King,405 S Wells St ,312-583-0000,60607,41.8766689,-87.6334907,Chicago Loop
+333,Taco Burrito King,5421 N Lincoln Ave ,773-516-4084,60625,41.9801808,-87.6924449,Lincoln Square
+334,Taco Burrito King,114 W Chicago,312-265-1479,60654,41.8968419,-87.6319066,Near North
+335,Taco Burrito King,3216 N Harlem Ave ,773-637-3200,60634,41.93857029999999,-87.80703079999999,Dunning
+336,Taco Burrito King Il,5601 S Harlem Ave,773-586-9800,60638,41.789916,-87.80096209999999,Garfield Ridge
+337,Taco El Jalisciense,3452 S Western Ave ,773-523-3452,60608,41.8305362,-87.68537119999999,McKinley Park
+338,Taco Fresco,23 E Adams St ,312-939-2877,60603,41.8793562,-87.6266863,Chicago Loop
+339,Taco Fresco,151 N Michigan Ave Ste C43 ,312-565-1444,60601,41.884971,-87.62413749999999,North Michigan Avenue
+340,Taco Fresco,29 N Wacker Dr Ste 2 ,312-920-0077,60606,41.8828444,-87.63661669999999,North Upper Wacker Drive
+341,Taco Fresco,180 N Wells St ,312-917-1007,60606,41.8852904,-87.634209,Chicago Loop
+342,Taco Fresco,1455 W Taylor St ,312-563-9090,60607,41.86909929999999,-87.6637776,Little Italy
+343,Taco Joe Inc,3458 W 111TH St ,773-429-0515,60655,41.6917063,-87.7079862,Mount Greenwood
+344,Taco Joint,158 W Ontario St ,312-337-8226,60654,41.893335,-87.63328899999999,River North
+345,Taco Joint,1969 N Halsted St ,312-951-2457,60614,41.9179288,-87.64826300000001,Lincoln Park
+346,Taco Max,4009 North Elston Avenue ,773-942-6397,60618,41.9541075,-87.719376,Irving Park
+347,Taco Mex,10658 S Torrence Ave ,773-734-4321,60617,41.70108339999999,-87.55988599999999,South Deering
+348,Taco Rico,6407 N Bell Ave ,773-274-1073,60645,41.9980984,-87.6860662,Little India
+349,Taco Time,5130 S Lake Park Ave ,773-324-8084,60615,41.80122679999999,-87.58800579999999,Hyde Park
+350,Taco's Marios,4256 W Fullerton Ave ,773-278-8944,60639,41.92478089999999,-87.73397949999999,Belmont Gardens
+351,Tacos Marios,6330 S Pulaski Rd ,773-735-3016,60629,41.7777209,-87.7230309,West Lawn
+352,Tanzitaro Mexican Restaurant,6075 N Milwaukee Ave ,773-792-1100,60646,41.9920412,-87.7823861,Norwood Park
+353,Taqueria Arandas,3443 W 26th St ,773-521-9095,60623,41.84420799999999,-87.71165169999999,South Lawndale
+354,Taqueria Cardona,1451 W 18th St ,312-492-8059,60608,41.8577107,-87.66345009999999,Lower West Side
+355,Taqueria Chile Bravo,2128 W Cermak Rd ,773-475-7651,60608,41.8522957,-87.6795169,Lower West Side
+356,Taqueria Cielito Lindo,6952 N Clark St ,773-274-0166,60626,42.0080848,-87.6740052,Rogers Park
+357,Taqueria Don Pancho,1943 W 51st St ,773-306-1418,60609,41.8010087,-87.6737163,Back of the Yards
+358,Taqueria Don Robe,3614 E 106th St ,773-731-8131,60617,41.7028775,-87.5357799,East Side
+359,Taqueria El Aguila,5957 W ,773-261-3625,60651,39.7790992,-105.0615117,United States
+360,Taqueria El Gallo,3532 W Montrose Ave ,773-267-1834,60618,41.9612372,-87.7170911,Albany Park
+361,Taqueria El Pastor,4418 W 63rd St ,773-284-1003,60629,41.7787994,-87.733364,West Lawn
+362,Taqueria El Pilon,8121 S Pulaski Rd ,773-767-4566,60652,41.7451121,-87.7212474,Ashburn
+363,Taqueria El Ranchito,4651 N Clark St ,773-334-6441,60640,41.9667333,-87.6668785,Sheridan Park
+364,Taqueria El Ranchito,2829 N Milwaukee Ave ,773-227-1688,60618,41.9327421,-87.7129609,Avondale
+365,Taqueria El Rincon,3353 N Central Ave ,773-481-9074,60634,41.9419784,-87.76627820000002,Portage Park
+366,Taqueria El Taco To Go,8346 S Pulaski Rd ,773-585-8040,60652,41.7408343,-87.7219082,Ashburn
+367,Taqueria El Tapatio,4238 W Fullerton Ave ,773-278-1468,60639,41.9246986,-87.7332589,Belmont Gardens
+368,Taqueria El Tenampa,5315 S Pulaski Rd ,773-735-8109,60632,41.7963235,-87.7229265,West Elsdon
+369,Taqueria Gonzalez,10148 S Ewing Ave ,773-902-2964,60617,41.7104959,-87.5355868,East Side
+370,Taqueria Hernandez,6983 N Clark St ,773-274-1519,60626,42.0088527,-87.6737797,Rogers Park
+371,Taqueria Huentitan,4019 W North Ave ,773-276-0768,60639,41.90972130000001,-87.7272888,Humboldt Park
+372,Taqueria La Fiesta,2701 N Central Ave ,773-804-1616,60639,41.9296662,-87.7659359,Belmont Cragin
+373,Taqueria La Fiesta,2700 N Central Ave ,773-804-1616,60639,33.4780203,-112.0743083,Midtown
+374,Taqueria La Hacienda,3452 W 59th St ,773-778-1000,60629,41.7862878,-87.7103726,Gage Park
+375,Taqueria La Puerta,5620 S Pulaski Rd ,773-581-8800,60629,41.790735,-87.723255,West Elsdon
+376,Taqueria Las Brasas,2910 W Armitage Ave ,773-342-4413,60647,41.9176333,-87.699833,Logan Square
+377,Taqueria Los Comales,3048 W 63rd St ,773-776-4764,60629,41.7792319,-87.7002033,Chicago Lawn
+378,Taqueria Los Comales,2148 N Milwaukee Ave ,773-276-0627,60647,41.9200584,-87.69321570000001,Logan Square
+379,Taqueria Los Comales,1544 W 18th St ,312-666-2251,60608,41.8579672,-87.6655502,Lower West Side
+380,Taqueria Los Comales,3141 W 26th St ,773-523-1689,60623,41.8443117,-87.7041254,Marshall Square
+381,Taqueria Los Comales,6035 S Pulaski Rd ,773-838-1977,60629,41.7830333,-87.7225335,West Lawn
+382,Taqueria Los Gallo,4211 W 26th St ,773-762-7452,60623,41.8438975,-87.7299185,South Lawndale
+383,Taqueria Los Gallo,6220 S Archer Ave ,773-585-8835,60638,41.794096,-87.77483099999999,Garfield Ridge
+384,Taqueria Los Gavilanes,2147 S California Ave ,773-376-3455,60608,41.8522979,-87.6952677,Marshall Square
+385,Taqueria Mano A Mano,3036 N Pulaski Rd ,773-736-1617,60641,41.9365602,-87.7273046,Belmont Gardens
+386,Taqueria Miguadalupe,7021 N Clark St ,773-338-8644,60626,42.0096682,-87.6738896,Rogers Park
+387,Taqueria Morelia,3943 W Lawrence Ave ,773-509-1727,60625,41.9681071,-87.727217,Albany Park
+388,Taqueria Ochoa,4151 W 47th St ,773-376-5330,60632,41.8076229,-87.72793949999999,Archer Heights
+389,Taqueria San Juanito,4714 N Kedzie Ave ,773-583-0304,60625,41.9670701,-87.70871389999999,East Albany Park
+390,Taqueria Valparaiso,10500 S Western Ave ,773-238-3982,60643,41.7025212,-87.681747,Beverly
+391,Tecalitlan Restaurant,1814 W Chicago,773-384-4285,60622,41.8962465,-87.67292739999999,West Town
+392,Thai & Burrito,2439 N Clark St ,773-549-5329,60614,41.9266395,-87.64091169999999,Lincoln Park
+393,Tio Luis Tacos,3856 South Archer Avenue ,773-843-0098,60632,41.8236619,-87.6890959,Brighton Park
+394,Tiztal Café,4631 North Clark Street ,773-271-4631,60640,41.966197,-87.6666762,Sheridan Park
+395,Tolotzin Mexican Restaurant N Restaura,4411 N Broadway St ,773-944-4300,60640,41.9622916,-87.655243,Uptown
+396,Tom Tom Tamale & Bakery Co,4750 S Washtenaw Ave ,773-523-5675,60632,41.8067411,-87.6920494,Brighton Park
+397,Tono Tacos,6102 W Diversey Ave ,773-887-5814,60639,41.9312862,-87.77860079999999,Belmont Central
+398,Tony's Tacos,3508 W 63rd St ,773-424-0056,60629,41.7791561,-87.7109444,Chicago Lawn
+399,Towns Limits Cantina,1838 W Lawrence Ave ,773-989-6894,60640,41.9689644,-87.6759383,Lincoln Square
+400,Uncle Julio's,855 W North Ave ,312-266-4222,60642,41.9106498,-87.65048519999999,Goose Island
+401,Viva Mexico,3115 W 26th St ,773-376-4967,60623,41.844169,-87.7033204,Marshall Square
+402,Xoco,449 N Clark St ,312-334-3688,60654,41.8906967,-87.6307641,River North
+403,Xocome Antojeria,5200 South Archer Avenue ,773-498-6679,60632,41.8002074,-87.734768,Archer Heights
+404,Yolis Tacos,2640 W Chicago,872-802-4544,60622,41.8958875,-87.6934431,West Town
+405,Zapatista,444 W Fullerton Pkwy ,773-525-4100,60614,41.9259203,-87.6409429,Lincoln Park
+406,Zemba Mexican Grill,605 W Lake St ,312-234-9900,60661,41.8855352,-87.6430761,West Loop
