@@ -30,6 +30,12 @@ var tacoIcon = L.icon({
   iconAnchor: [20,20]
 });
 
+var coffeeIcon = L.icon({
+  iconUrl: "../Images/coffee_icon.png",
+  iconSize: [50,50],
+  iconAnchor: [20,20]
+});
+
 //Function that will determine the color of a Chicago neighborhood based on the area it belongs to
 function chooseColor(community) {
   switch (community) {
@@ -307,6 +313,25 @@ d3.csv("../Datasets/CPLdata1.csv", function(data) {
   });
 });
 
+
+var coffeeMarkers = [];
+d3.csv("../Datasets/coffeeUpdate.csv", function(error, coffeeData) {
+  
+  if (error) return console.warn(error);
+
+  // Cast each hours value in tvData as a number using the unary + operator
+  coffeeData.forEach(function(data) {
+
+    lat = data.Latitude;
+    lng = data.Longitude;
+    coffeeMarkers.push(
+      L.marker([lat, lng], {icon : coffeeIcon}).bindPopup("<h3>" + data.Name + "</h3>"));
+  });
+});
+
+
+
+
 var pizzaHeatArray = [];
 var pizzaClusterMarkers = L.markerClusterGroup({
   iconCreateFunction: function(cluster) {
@@ -387,6 +412,7 @@ function createMap(neighborhoods) {
   var hauntedLayer = L.layerGroup(hauntedMarkers);
   var redLayer = L.layerGroup(redMarkers);
   var CPLLayer = L.layerGroup(CPLMarkers);
+  var coffeeLayer = L.layerGroup(coffeeMarkers);
 
   var CTALayer = L.gridLayer.googleMutant({
     type: 'terrain',
@@ -418,7 +444,8 @@ function createMap(neighborhoods) {
     "Red Light Cameras": redLayer,
     // "Pizza heat": pizzaHeat,
     Pizza: pizzaClusterMarkers,
-    Mexican: mexicanClusterMarkers
+    Mexican: mexicanClusterMarkers,
+    Coffee: coffeeLayer
   };
 
   // Create our map, giving it the streetmap and neighborhood layers to display on load
