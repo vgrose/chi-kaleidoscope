@@ -313,35 +313,35 @@ d3.csv("../Datasets/CPLdata1.csv", function(data) {
   });
 });
 
-// var pizzaHeatArray = [];
-// var pizzaClusterMarkers = L.markerClusterGroup({
-//   iconCreateFunction: function(cluster) {
-//     var count = cluster.getChildCount();
-//     console.log(count);
-//     return L.divIcon({ 
-//       className: 'my-div-icon',
-//       html: `<div id = "pizzaContainer">
-//                 <img id ="tacoImage" src = "../Images/pizzaIcon.png" style="width:100%;"/>
-//                 <p id ="tacoText">${count}</p>
-//             </div>`
-//     });
-//   }
-// });
+var pizzaHeatArray = [];
+var pizzaClusterMarkers = L.markerClusterGroup({
+  iconCreateFunction: function(cluster) {
+    var count = cluster.getChildCount();
+    console.log(count);
+    return L.divIcon({ 
+      className: 'my-div-icon',
+      html: `<div id = "pizzaContainer">
+                <img id ="tacoImage" src = "../Images/pizzaIcon.png" style="width:100%;"/>
+                <p id ="tacoText">${count}</p>
+            </div>`
+    });
+  }
+});
 
-// d3.csv("../Datasets/pizzaUpdate.csv", function(error, pizzaData) {
+d3.csv("../Datasets/pizzaUpdate.csv", function(error, pizzaData) {
   
-//     if (error) return console.warn(error);
+    if (error) return console.warn(error);
 
-//   // Cast each hours value in tvData as a number using the unary + operator
-//     pizzaData.forEach(function(data) {
+  // Cast each hours value in tvData as a number using the unary + operator
+    pizzaData.forEach(function(data) {
 
-//         var lat = data.Latitude;
-//         var lng = data.Longitude;
-//         // pizzaHeatArray.push([lat, lng]);
-//         pizzaClusterMarkers.addLayer(L.marker([lat, lng], {icon: pizzaIcon})
-//         .bindPopup("<h3 align = 'center'>" + data.Name + "</h3><h4 align = 'center'>" + data.Address + "</h4"));
-//     });
-//   });
+        var lat = data.Latitude;
+        var lng = data.Longitude;
+        // pizzaHeatArray.push([lat, lng]);
+        pizzaClusterMarkers.addLayer(L.marker([lat, lng], {icon: pizzaIcon})
+        .bindPopup("<h3 align = 'center'>" + data.Name + "</h3><h4 align = 'center'>" + data.Address + "</h4"));
+    });
+  });
 
 var asianHeatArray = [];
 var asianClusterMarkers = L.markerClusterGroup({
@@ -352,7 +352,7 @@ var asianClusterMarkers = L.markerClusterGroup({
       className: 'my-div-icon',
       html: `<div id = "tacoContainer">
                 <img id ="tacoImage" src = "../Images/sushiIcon.png" style="width:100%;"/>
-                <p id ="tacoText">${count}</p>
+                <p id ="sushiText">${count}</p>
             </div>`
     });
   }
