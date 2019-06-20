@@ -30,9 +30,15 @@ var tacoIcon = L.icon({
   iconAnchor: [20,20]
 });
 
+<<<<<<< HEAD
 var sushiIcon = L.icon({
   iconUrl: "../Images/sushiIcon.png",
   iconSize: [30,30],
+=======
+var coffeeIcon = L.icon({
+  iconUrl: "../Images/coffee_icon.png",
+  iconSize: [50,50],
+>>>>>>> 537add2bf6d99c674bfa4c20bd8978a398cd47f5
   iconAnchor: [20,20]
 });
 
@@ -313,6 +319,25 @@ d3.csv("../Datasets/CPLdata1.csv", function(data) {
   });
 });
 
+
+var coffeeMarkers = [];
+d3.csv("../Datasets/coffeeUpdate.csv", function(error, coffeeData) {
+  
+  if (error) return console.warn(error);
+
+  // Cast each hours value in tvData as a number using the unary + operator
+  coffeeData.forEach(function(data) {
+
+    lat = data.Latitude;
+    lng = data.Longitude;
+    coffeeMarkers.push(
+      L.marker([lat, lng], {icon : coffeeIcon}).bindPopup("<h3>" + data.Name + "</h3>"));
+  });
+});
+
+
+
+
 var pizzaHeatArray = [];
 var pizzaClusterMarkers = L.markerClusterGroup({
   iconCreateFunction: function(cluster) {
@@ -423,6 +448,7 @@ function createMap(neighborhoods) {
   var hauntedLayer = L.layerGroup(hauntedMarkers);
   var redLayer = L.layerGroup(redMarkers);
   var CPLLayer = L.layerGroup(CPLMarkers);
+  var coffeeLayer = L.layerGroup(coffeeMarkers);
 
   var CTALayer = L.gridLayer.googleMutant({
     type: 'terrain',
@@ -455,7 +481,11 @@ function createMap(neighborhoods) {
     // "Pizza heat": pizzaHeat,
     Pizza: pizzaClusterMarkers,
     Mexican: mexicanClusterMarkers,
+<<<<<<< HEAD
     Asian: asianClusterMarkers
+=======
+    Coffee: coffeeLayer
+>>>>>>> 537add2bf6d99c674bfa4c20bd8978a398cd47f5
   };
 
   // Create our map, giving it the streetmap and neighborhood layers to display on load
