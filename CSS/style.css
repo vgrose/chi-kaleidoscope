@@ -47,7 +47,46 @@ html {
   color: black;
   font-size: 13px;
   font-weight: bold;
-  left: 50%;
+  left: 40%;
+  top: 15%;
+  transform: translate(-50%, -50%);
+}
+
+
+#coffeeText {
+  z-index: 100;
+  position: absolute;
+  color: black;
+  font-size: 13px;
+  font-weight: bold;
+  left: 45%;
   top: 25%;
   transform: translate(-50%, -50%);
 }
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 380px;
+  background-color: white;
+  opacity: 0.8;
+  color: black;
+  text-align: left;
+  font-size: 12px;
+  padding-bottom: 30px;
+  padding-top: -80;
+  margin: 1px;
+  margin-top: 30px;
+  height: 5px;
+}
+
+body > div.container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  vertical-align: top;
+}
+

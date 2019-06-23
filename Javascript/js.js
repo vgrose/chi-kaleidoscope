@@ -30,15 +30,15 @@ var tacoIcon = L.icon({
   iconAnchor: [20,20]
 });
 
-<<<<<<< HEAD
 var sushiIcon = L.icon({
   iconUrl: "../Images/sushiIcon.png",
   iconSize: [30,30],
-=======
+  iconAnchor: [20,20]
+});
+
 var coffeeIcon = L.icon({
   iconUrl: "../Images/coffee_icon.png",
   iconSize: [50,50],
->>>>>>> 537add2bf6d99c674bfa4c20bd8978a398cd47f5
   iconAnchor: [20,20]
 });
 
@@ -261,8 +261,9 @@ function createFeatures (neighborhoodData) {
         //   map.fitBounds(event.target.getBounds());
         // }
       });
+      
       // Giving each feature a pop-up with information pertinent to it
-      layer.bindPopup("<h1>" + feature.properties.community + "</h1> <hr> <h2>" + feature.properties.community + "</h2>");
+      layer.bindPopup("<h1>" + feature.properties.community + "</h1> <hr>");
     }
   });
   // Call createMap function defined below
@@ -320,21 +321,35 @@ d3.csv("../Datasets/CPLdata1.csv", function(data) {
 });
 
 
-var coffeeMarkers = [];
+var coffeeHeatArray = [];
+var coffeeClusterMarkers = L.markerClusterGroup({
+  iconCreateFunction: function(cluster) {
+    var count = cluster.getChildCount();
+    console.log(count);
+    return L.divIcon({ 
+      className: 'my-div-icon',
+      html: `<div id = "pizzaContainer">
+                <img id ="tacoImage" src = "../Images/coffee_icon.png" style="width:100%;"/>
+                <p id ="coffeeText">${count}</p>
+            </div>`
+    });
+  }
+});
+
 d3.csv("../Datasets/coffeeUpdate.csv", function(error, coffeeData) {
   
   if (error) return console.warn(error);
 
-  // Cast each hours value in tvData as a number using the unary + operator
+// Cast each hours value in tvData as a number using the unary + operator
   coffeeData.forEach(function(data) {
 
-    lat = data.Latitude;
-    lng = data.Longitude;
-    coffeeMarkers.push(
-      L.marker([lat, lng], {icon : coffeeIcon}).bindPopup("<h3>" + data.Name + "</h3>"));
+      var lat = data.Latitude;
+      var lng = data.Longitude;
+      // pizzaHeatArray.push([lat, lng]);
+      coffeeClusterMarkers.addLayer(L.marker([lat, lng], {icon: coffeeIcon})
+      .bindPopup("<h3 align = 'center'>" + data.Name + "</h3><h4 align = 'center'>" + data.Address + "</h4"));
   });
 });
-
 
 
 
@@ -448,7 +463,6 @@ function createMap(neighborhoods) {
   var hauntedLayer = L.layerGroup(hauntedMarkers);
   var redLayer = L.layerGroup(redMarkers);
   var CPLLayer = L.layerGroup(CPLMarkers);
-  var coffeeLayer = L.layerGroup(coffeeMarkers);
 
   var CTALayer = L.gridLayer.googleMutant({
     type: 'terrain',
@@ -481,11 +495,8 @@ function createMap(neighborhoods) {
     // "Pizza heat": pizzaHeat,
     Pizza: pizzaClusterMarkers,
     Mexican: mexicanClusterMarkers,
-<<<<<<< HEAD
-    Asian: asianClusterMarkers
-=======
-    Coffee: coffeeLayer
->>>>>>> 537add2bf6d99c674bfa4c20bd8978a398cd47f5
+    Asian: asianClusterMarkers,
+    Coffee: coffeeClusterMarkers
   };
 
   // Create our map, giving it the streetmap and neighborhood layers to display on load
